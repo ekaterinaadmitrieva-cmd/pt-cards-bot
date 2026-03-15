@@ -6,12 +6,147 @@
   },
   {
     "day": 2,
-    "pt": ["Quanto custa?", "Aceita cartão?"],
-    "ru": ["Сколько стоит?", "Принимаете карту?"]
+    "pt": ["Não percebi.", "Pode repetir, por favor?"],
+    "ru": ["Я не поняла.", "Можете повторить, пожалуйста?"]
   },
   {
     "day": 3,
-    "pt": ["Queria um café, por favor."],
-    "ru": ["Я бы хотел(а) кофе, пожалуйста."]
+    "pt": ["Fala inglês?", "Estou a aprender português."],
+    "ru": ["Вы говорите по-английски?", "Я учу португальский."]
+  },
+  {
+    "day": 4,
+    "pt": ["Quanto custa?", "Aceita cartão?"],
+    "ru": ["Сколько стоит?", "Вы принимаете карту?"]
+  },
+  {
+    "day": 5,
+    "pt": ["Queria isto, por favor.", "É tudo, obrigada."],
+    "ru": ["Я бы хотела вот это, пожалуйста.", "Это всё, спасибо."]
+  },
+  {
+    "day": 6,
+    "pt": ["Um café, por favor.", "Sem açúcar."],
+    "ru": ["Один кофе, пожалуйста.", "Без сахара."]
+  },
+  {
+    "day": 7,
+    "pt": ["Queria a conta, por favor.", "Posso pagar com cartão?"],
+    "ru": ["Я бы хотела счёт, пожалуйста.", "Можно заплатить картой?"]
+  },
+  {
+    "day": 8,
+    "pt": ["Onde é a casa de banho?", "É à direita ou à esquerda?"],
+    "ru": ["Где туалет?", "Это направо или налево?"]
+  },
+  {
+    "day": 9,
+    "pt": ["Pode trazer água, por favor?", "Água sem gás."],
+    "ru": ["Можете принести воду, пожалуйста?", "Воду без газа."]
+  },
+  {
+    "day": 10,
+    "pt": ["Tem mesa para duas pessoas?", "Tem reserva em nome de Ekaterina."],
+    "ru": ["У вас есть столик на двоих?", "У вас бронь на имя Екатерина."]
+  },
+  {
+    "day": 11,
+    "pt": ["Pode chamar um táxi, por favor?", "Preciso de um recibo."],
+    "ru": ["Можете вызвать такси, пожалуйста?", "Мне нужен чек."]
+  },
+  {
+    "day": 12,
+    "pt": ["Leve-me para esta morada, por favor.", "Quanto tempo demora?"],
+    "ru": ["Отвезите меня по этому адресу, пожалуйста.", "Сколько это займёт времени?"]
+  },
+  {
+    "day": 13,
+    "pt": ["Pode parar aqui, por favor?", "Fique com o troco."],
+    "ru": ["Можете остановиться здесь, пожалуйста?", "Оставьте сдачу себе."]
+  },
+  {
+    "day": 14,
+    "pt": ["A encomenda já chegou?", "Estou à espera da entrega."],
+    "ru": ["Заказ уже приехал?", "Я жду доставку."]
+  },
+  {
+    "day": 15,
+    "pt": ["Pode ligar quando chegar?", "Estou a descer."],
+    "ru": ["Можете позвонить, когда приедете?", "Я спускаюсь."]
+  },
+  {
+    "day": 16,
+    "pt": ["Recebi o pedido errado.", "Falta um artigo."],
+    "ru": ["Я получила не тот заказ.", "Не хватает одной позиции."]
+  },
+  {
+    "day": 17,
+    "pt": ["Queria trocar isto.", "Tem outro tamanho?"],
+    "ru": ["Я бы хотела это обменять.", "Есть другой размер?"]
+  },
+  {
+    "day": 18,
+    "pt": ["Só estou a ver, obrigada.", "Onde ficam as caixas?"],
+    "ru": ["Я просто смотрю, спасибо.", "Где кассы?"]
+  },
+  {
+    "day": 19,
+    "pt": ["Hoje", "Amanhã", "Ontem"],
+    "ru": ["Сегодня", "Завтра", "Вчера"]
+  },
+  {
+    "day": 20,
+    "pt": ["Segunda-feira", "Terça-feira", "Quarta-feira"],
+    "ru": ["Понедельник", "Вторник", "Среда"]
+  },
+  {
+    "day": 21,
+    "pt": ["Quinta-feira", "Sexta-feira", "Fim de semana"],
+    "ru": ["Четверг", "Пятница", "Выходные"]
+  },
+  {
+    "day": 22,
+    "pt": ["ser: sou, é, somos", "estar: estou, está, estamos"],
+    "ru": ["быть: я есть, он/она есть, мы есть", "находиться/быть: я нахожусь, он/она находится, мы находимся"]
+  },
+  {
+    "day": 23,
+    "pt": ["ter: tenho, tem, temos", "ir: vou, vai, vamos"],
+    "ru": ["иметь: у меня есть, у него/неё есть, у нас есть", "идти: я иду, он/она идёт, мы идём"]
+  },
+  {
+    "day": 24,
+    "pt": ["querer: quero, quer, queremos", "poder: posso, pode, podemos"],
+    "ru": ["хотеть: я хочу, он/она хочет, мы хотим", "мочь: я могу, он/она может, мы можем"]
+  },
+  {
+    "day": 25,
+    "pt": ["Estou em Lisboa.", "Moro em Lisboa."],
+    "ru": ["Я нахожусь в Лиссабоне.", "Я живу в Лиссабоне."]
+  },
+  {
+    "day": 26,
+    "pt": ["Preciso de ajuda.", "Pode ajudar-me, por favor?"],
+    "ru": ["Мне нужна помощь.", "Можете мне помочь, пожалуйста?"]
+  },
+  {
+    "day": 27,
+    "pt": ["Tenho uma reunião na escola.", "Queria falar com a professora."],
+    "ru": ["У меня встреча в школе.", "Я бы хотела поговорить с учительницей."]
+  },
+  {
+    "day": 28,
+    "pt": ["O meu filho não se sente bem.", "Tem consulta hoje?"],
+    "ru": ["Мой ребёнок плохо себя чувствует.", "Есть приём сегодня?"]
+  },
+  {
+    "day": 29,
+    "pt": ["Tenho uma marcação.", "Que documentos são necessários?"],
+    "ru": ["У меня запись.", "Какие документы нужны?"]
+  },
+  {
+    "day": 30,
+    "pt": ["Pode escrever, por favor?", "Quero confirmar a morada."],
+    "ru": ["Можете написать, пожалуйста?", "Я хочу подтвердить адрес."]
   }
 ]
